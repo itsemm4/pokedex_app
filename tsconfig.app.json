@@ -6,8 +6,8 @@
     "module": "ESNext",
     "skipLibCheck": true,
 
-    /* Bundler mode */
-    "moduleResolution": "bundler",
+    /* Bundler mode (temporarily switched to "node" for testing with Biome) */
+    "moduleResolution": "node",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
